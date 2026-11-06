@@ -1,0 +1,6 @@
+{
+  "name": "Shanmukha Cricket Academy - Elite Training & AI Coaching Hub",
+  "description": "Premier professional cricket coaching academy featuring 3D ball & pitch physics simulations, AI batting and bowling stroke analyzer, interactive net booking, live match center, custom training plan generator, and elite coach masterclasses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
