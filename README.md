@@ -35,8 +35,8 @@
 ## 📞 Academy Contact Hotlines
 
 - **Head Coach & Founder (Coach Shanmukha):** `+91 90631 83329`
-- **Admissions & Desk Hotline:** `+91 63050 01344`
-- **Email:** `info@shanmukhacricketacademy.com`
+- **Admissions & Desk Hotline:** `+91 6304503644`
+- **Email:** `vaddeshanmukh781@gmail.com`
 - **Timings:** Open 7 Days a week (6:00 AM – 9:30 PM)
 
 ---
